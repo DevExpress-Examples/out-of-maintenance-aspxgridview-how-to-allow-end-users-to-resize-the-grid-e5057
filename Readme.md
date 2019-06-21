@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to allow end-users to resize the grid
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e5057/)**
+<!-- run online end -->
 
 
 <p>The scenario is the following:<br />
